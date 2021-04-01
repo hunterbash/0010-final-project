@@ -21,7 +21,9 @@ Description and Links to the Datasets Used:
 Arrest data in Pittsburgh, it contains the arrest location zip code, so we can harvest it and calculate how many arrests per neighborhood
 https://data.wprdc.org/dataset/arrest-data
 
-
+Food data:
+- [Supermarkets and convenience stores](https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores)
+- [Fast food](https://data.wprdc.org/dataset/allegheny-county-fast-food)
 
 Abstract: A TLDR summary of the findings of the project. 
 Answer to the question: What is the best neighborhood? And How did you determine that answer (brief summary of metrics)
