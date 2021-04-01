@@ -5,9 +5,13 @@ Team Name:
 Jakes' Group 10
 
 Team Members:
+
 Ria Chadha - ric42@pitt.edu
+
 Pawel Morysewicz - pam195@pitt.edu
+
 Hunter R Bash - hunterbash@pitt.edu
+
 Max Phillips - max.p@pitt.edu
 
 Description and Links to the Datasets Used:
