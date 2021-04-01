@@ -3,6 +3,7 @@ Jake's Group 10's final project for Big Ideas
 
 Team Name:
 Jakes' Group 10
+
 Team Members:
 Ria Chadha - ric42@pitt.edu
 Pawel Morysewicz - pam195@pitt.edu
