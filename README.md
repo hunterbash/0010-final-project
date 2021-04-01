@@ -16,5 +16,10 @@ Max Phillips - max.p@pitt.edu
 
 Description and Links to the Datasets Used:
 
+Arrest data in Pittsburgh, it contains the arrest location zip code, so we can harvest it and calculate how many arrests per neighborhood
+https://data.wprdc.org/dataset/arrest-data
+
+
+
 Abstract: A TLDR summary of the findings of the project. 
 Answer to the question: What is the best neighborhood? And How did you determine that answer (brief summary of metrics)
