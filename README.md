@@ -1,5 +1,5 @@
-# 0010-final-project
-Jake's Group 10's final project for Big Ideas
+# Pittsburgh's Next Top Neighborhood
+Jake's Group 10's final project for CMPINF0010, Big Ideas in Computing and Information.
 
 Team Name: **Jake's Group X**
 
