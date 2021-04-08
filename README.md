@@ -4,12 +4,12 @@ Jake's Group 10's final project for CMPINF0010, Big Ideas in Computing and Infor
 Team Name: **Jake's Group X**
 
 ## 👥 Members
-| Name | Email |
-| ---- | ----: |
-| Ria Chadha | ric42@pitt.edu |
-| Pawel Morysewicz | pam195@pitt.edu |
-| Hunter R Bash | hunterbash@pitt.edu |
-| Maximillian Phillips | max.p@pitt.edu |
+| Name                 | Email               |
+|----------------------|---------------------|
+| Ria Chadha           |      ric42@pitt.edu |
+| Pawel Morysewicz     |     pam195@pitt.edu |
+| Hunter R Bash        | hunterbash@pitt.edu |
+| Maximillian Phillips |      max.p@pitt.edu |
 
 ## 📊 Datasets
 - [SNAP census data for Pittsburgh, organized by neighborhood. Includes map file for visualization.](https://data.wprdc.org/dataset/neighborhoods-with-snap-data)
