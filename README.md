@@ -1,14 +1,14 @@
 # Pittsburgh's Next Top Neighborhood
 Jake's Group 10's final project for CMPINF0010, Big Ideas in Computing and Information.
 
-Team Name: **Jake's Group X**
+Team Name: **Jake's Group 10**
 
 ## 👥 Members
 | Name                 | Email               |
 |----------------------|---------------------|
 | Ria Chadha           |      ric42@pitt.edu |
 | Pawel Morysewicz     |     pam195@pitt.edu |
-| Hunter R Bash        | hunterbash@pitt.edu |
+| Hunter Bash          | hunterbash@pitt.edu |
 | Maximillian Phillips |      max.p@pitt.edu |
 
 ## 📊 Datasets
