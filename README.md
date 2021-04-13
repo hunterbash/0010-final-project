@@ -20,9 +20,12 @@ Team Name: **Jake's Group 10**
 | [Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality)                      | Ria    | Air quality per area as determined by Allegheny County Health Department's Air Quality Program.                       |
 
 ## 📝 Abstract
+### 👓 Summary
 A TLDR summary of the findings of the project. 
 
 Answers to the question: What is the best neighborhood? And How did you determine that answer (brief summary of metrics)
 
-Formula for the determining best/worst neighborhoods = (value / max value in the set) * Weight based on the importance of the factor
-Additionaly if the value is a negative factor such as crime rate in the are we multipy it by (-1), so we can just add all points per neighborhood.
+### 🧪 Formula
+![rank formula](formula.png)
+
+Each data point was divided by the maximum value in its respective dataset, then multiplied by its weight. _Negative_ factors such as crime rate subtract from the rank. These scores were added together to find the final neighborhood score.
