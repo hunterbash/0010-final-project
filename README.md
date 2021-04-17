@@ -49,6 +49,6 @@ Working to compile the number of smart trash cans in each neighborhood was fairl
 My best neighborhood was **Shadyside**.
 
 ## 🧪 Formula
-![rank formula](formula.png)
+![rank formula](data/formula.png)
 
 Each data point was divided by the maximum value in its respective dataset, then multiplied by its weight. _Negative_ factors such as crime rate subtract from the rank. These scores were added together to find the final neighborhood score.
